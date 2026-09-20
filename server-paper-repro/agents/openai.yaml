@@ -1,0 +1,6 @@
+interface:
+  display_name: "Server Paper Reproduction"
+  short_description: "Run staged, auditable paper reproduction experiments"
+  default_prompt: "Use $server-paper-repro to plan and audit a staged paper reproduction."
+policy:
+  allow_implicit_invocation: true
