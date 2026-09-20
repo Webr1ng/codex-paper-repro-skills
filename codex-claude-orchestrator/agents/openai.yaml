@@ -1,0 +1,6 @@
+interface:
+  display_name: "Codex-Claude Orchestrator"
+  short_description: "Delegate bounded work with observable acceptance"
+  default_prompt: "Use $codex-claude-orchestrator to create and audit a bounded execution task."
+policy:
+  allow_implicit_invocation: true
